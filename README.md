@@ -7,6 +7,8 @@ A custom-built First-Person-View cinewhoop quadrotor with an onboard
 Raspberry Pi companion computer implementing real-time optical flow 
 positioning for GPS-denied indoor flight.
 
+This project is currently in development
+
 ## Overview
 
 This drone enables stable position holding and navigation when GPS 
