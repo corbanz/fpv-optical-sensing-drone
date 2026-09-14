@@ -1,5 +1,5 @@
 #README 
-[Updated 7/25/26]
+[Updated 9/14/26]
 
 # FPV Optical Sensing Drone
 
